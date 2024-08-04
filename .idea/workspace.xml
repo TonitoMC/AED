@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="adef4ebd-380f-480a-8973-edab9375f55d" name="Changes" comment="Codigo Comentado + Programa Funcional 100%">
+      <change beforePath="$PROJECT_DIR$/src/main/java/uvg/edu/gt/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uvg/edu/gt/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uvg/edu/gt/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uvg/edu/gt/Model.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit3 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "TonitoMC"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="5b09d80a-ac93-4472-b255-8e22693bb023" />
+        <option name="url" value="https://github.com/TonitoMC/HDT10_V2.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2gnggfQ23mHd4bbGyr0PA8BIFtM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "JUnit.DirectedGraphTest.executor": "Run",
+    "JUnit.DirectedGraphTest.testAddEdge.executor": "Run",
+    "JUnit.DirectedGraphTest.testFloydMatrix.executor": "Run",
+    "JUnit.DirectedGraphTest.testRemoveEdge.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="uvg.edu.gt" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DirectedGraphTest.testAddEdge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HDT10A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uvg.edu.gt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uvg.edu.gt" />
+      <option name="MAIN_CLASS_NAME" value="uvg.edu.gt.DirectedGraphTest" />
+      <option name="METHOD_NAME" value="testAddEdge" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DirectedGraphTest.testFloydMatrix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HDT10A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uvg.edu.gt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uvg.edu.gt" />
+      <option name="MAIN_CLASS_NAME" value="uvg.edu.gt.DirectedGraphTest" />
+      <option name="METHOD_NAME" value="testFloydMatrix" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DirectedGraphTest.testRemoveEdge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HDT10A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uvg.edu.gt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uvg.edu.gt" />
+      <option name="MAIN_CLASS_NAME" value="uvg.edu.gt.DirectedGraphTest" />
+      <option name="METHOD_NAME" value="testRemoveEdge" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DirectedGraphTest.testFloydMatrix" />
+        <item itemvalue="JUnit.DirectedGraphTest.testRemoveEdge" />
+        <item itemvalue="JUnit.DirectedGraphTest.testAddEdge" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adef4ebd-380f-480a-8973-edab9375f55d" name="Changes" comment="" />
+      <created>1716338868798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716338868798</updated>
+      <workItem from="1716338869821" duration="12428000" />
+    </task>
+    <task id="LOCAL-00001" summary="Implementado Floyd y DirectedGraph">
+      <option name="closed" value="true" />
+      <created>1716340922852</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716340922852</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Desarrollo programa principal">
+      <option name="closed" value="true" />
+      <created>1716347581842</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716347581842</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Finalizado programa, solo falta recorrido para ruta mas corta">
+      <option name="closed" value="true" />
+      <created>1716347961257</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716347961257</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Agregado recorrido">
+      <option name="closed" value="true" />
+      <created>1716351543949</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716351543949</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Codigo Comentado + Programa Funcional 100%">
+      <option name="closed" value="true" />
+      <created>1716353432465</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716353432465</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Implementado Floyd y DirectedGraph" />
+    <MESSAGE value="Desarrollo programa principal" />
+    <MESSAGE value="Finalizado programa, solo falta recorrido para ruta mas corta" />
+    <MESSAGE value="Agregado recorrido" />
+    <MESSAGE value="Codigo Comentado + Programa Funcional 100%" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codigo Comentado + Programa Funcional 100%" />
+  </component>
+</project>
