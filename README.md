@@ -1,5 +1,5 @@
 # Hoja de Trabajo 1. Repaso Java / Interfaces
-## Autor: Jose Merida | 29 de Agosto 2023
+## Autor: Jose Merida | 18 de Enero 2024
 ### Instrucciones:
 “Design a data structure to simulate the workings of a radio. The state of the radio is on or off, and it may
 be used to listen to an AM or FM station. A dozen modifiable push buttons (identified by integers 1
