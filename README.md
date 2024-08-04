@@ -17,5 +17,5 @@ En este curso principalmente se utilizó Java, algunas veces utilizando Python p
 
 Algunas de las entregas por resaltar son:
 
-  - HDT 8
+  - HDT 9
   - Proyecto 2
