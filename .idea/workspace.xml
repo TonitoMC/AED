@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b12a577-b98c-499a-8538-75288ac1b489" name="Changes" comment="Algunas cosas extra">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LispScript.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LispScript.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uvg/edu/gt/Evaluator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uvg/edu/gt/Evaluator.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit3 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2deiDQUtzJwghm3AbNaRm0nrXHR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "JUnit.ArithmeticTest.executor": "Run",
+    "JUnit.ArithmeticTest.testEval.executor": "Debug",
+    "JUnit.EvaluatorTest.executor": "Run",
+    "JUnit.EvaluatorTest.testEval.executor": "Run",
+    "JUnit.FunctionTest.executor": "Run",
+    "JUnit.ParserTest.executor": "Run",
+    "JUnit.ParserTest.testSeparate.executor": "Debug",
+    "JUnit.PredicatesTest.executor": "Run",
+    "JUnit.PredicatesTest.testEval.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="uvg.edu.gt" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ArithmeticTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Proyecto1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uvg.edu.gt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uvg.edu.gt" />
+      <option name="MAIN_CLASS_NAME" value="uvg.edu.gt.ArithmeticTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvaluatorTest.testEval" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Proyecto1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uvg.edu.gt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uvg.edu.gt" />
+      <option name="MAIN_CLASS_NAME" value="uvg.edu.gt.EvaluatorTest" />
+      <option name="METHOD_NAME" value="testEval" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PredicatesTest.testEval" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Proyecto1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uvg.edu.gt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uvg.edu.gt" />
+      <option name="MAIN_CLASS_NAME" value="uvg.edu.gt.PredicatesTest" />
+      <option name="METHOD_NAME" value="testEval" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PredicatesTest.testEval" />
+        <item itemvalue="JUnit.EvaluatorTest.testEval" />
+        <item itemvalue="JUnit.ArithmeticTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b12a577-b98c-499a-8538-75288ac1b489" name="Changes" comment="" />
+      <created>1710374825363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710374825363</updated>
+      <workItem from="1710374826391" duration="15324000" />
+      <workItem from="1710396392207" duration="1536000" />
+      <workItem from="1710398254991" duration="88000" />
+      <workItem from="1710400697757" duration="2752000" />
+      <workItem from="1710806021404" duration="45000" />
+      <workItem from="1710814922252" duration="10000" />
+      <workItem from="1710974336497" duration="3884000" />
+      <workItem from="1710985382988" duration="4909000" />
+      <workItem from="1711150549570" duration="2688000" />
+      <workItem from="1711297880468" duration="34720000" />
+    </task>
+    <task id="LOCAL-00001" summary="Agregado primer metodo &quot;separate&quot; para separar las funciones de Lisp conforme sus parentesis">
+      <option name="closed" value="true" />
+      <created>1710381617560</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710381617560</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Agregado metodo tokenize">
+      <option name="closed" value="true" />
+      <created>1710384004852</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710384004852</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Implementada logica metodo eval para funciones aritmeticas">
+      <option name="closed" value="true" />
+      <created>1710391544312</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710391544312</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Agregados comentarios sobre el codigo">
+      <option name="closed" value="true" />
+      <created>1710397710770</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710397710770</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Agregados diferentes casos y tomada nota sobre implementaciones pendientes">
+      <option name="closed" value="true" />
+      <created>1710403364398</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710403364398</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Operaciones de aritmetica funcionando correctamente (complejas incluidas)">
+      <option name="closed" value="true" />
+      <created>1710977448531</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710977448531</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Cambios menores (wuuu)">
+      <option name="closed" value="true" />
+      <created>1710995220282</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710995220282</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Agregada clase Function">
+      <option name="closed" value="true" />
+      <created>1711153230194</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711153230194</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Implementada definicion y evaluacion de funciones">
+      <option name="closed" value="true" />
+      <created>1711301904187</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1711301904187</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Actualizaciones + RECURSIVIDAD :D">
+      <option name="closed" value="true" />
+      <created>1711334488034</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1711334488034</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Agregados mas comentarios + script de LISP">
+      <option name="closed" value="true" />
+      <created>1711336558337</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1711336558337</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Funcionamiento 100% excepto LIST y ATOM :c">
+      <option name="closed" value="true" />
+      <created>1711338650682</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1711338650682</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Cambios menores">
+      <option name="closed" value="true" />
+      <created>1711342960162</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1711342960162</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Implementada funcionalidad ATOM">
+      <option name="closed" value="true" />
+      <created>1711343423720</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1711343423720</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Algunas cosas extra">
+      <option name="closed" value="true" />
+      <created>1711344723736</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1711344723736</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Agregado primer metodo &quot;separate&quot; para separar las funciones de Lisp conforme sus parentesis" />
+    <MESSAGE value="Agregado metodo tokenize" />
+    <MESSAGE value="Implementada logica metodo eval para funciones aritmeticas" />
+    <MESSAGE value="Agregados comentarios sobre el codigo" />
+    <MESSAGE value="Agregados diferentes casos y tomada nota sobre implementaciones pendientes" />
+    <MESSAGE value="Operaciones de aritmetica funcionando correctamente (complejas incluidas)" />
+    <MESSAGE value="Cambios menores (wuuu)" />
+    <MESSAGE value="Agregada clase Function" />
+    <MESSAGE value="Implementada definicion y evaluacion de funciones" />
+    <MESSAGE value="Actualizaciones + RECURSIVIDAD :D" />
+    <MESSAGE value="Agregados mas comentarios + script de LISP" />
+    <MESSAGE value="Funcionamiento 100% excepto LIST y ATOM :c" />
+    <MESSAGE value="Cambios menores" />
+    <MESSAGE value="Implementada funcionalidad ATOM" />
+    <MESSAGE value="Algunas cosas extra" />
+    <option name="LAST_COMMIT_MESSAGE" value="Algunas cosas extra" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/src/main/java/uvg/edu/gt/Evaluator.java" line="138">
+        <watch expression="firstIndex" language="JAVA" />
+      </inline-watch>
+    </watches-manager>
+  </component>
+</project>
