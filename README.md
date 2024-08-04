@@ -1,5 +1,7 @@
 # Hoja de Trabajo 4. Factory, Singleton y Postfix
 ## Autor: Jose Merida | 26 de Febrero 2024
+## Instalación
+Este proyecto utiliza [Maven](https://maven.apache.org/) y fue escrito en [Java](https://www.java.com/en/), por lo cual es necesario instalar estas dependencias para poder correr el programa. Para proteger los datos de los usuarios y el acceso a la base de datos, la información de conexión se coordina por medio de variables de entorno, por lo cuál es necesario configurarlas para conectarse a la base de datos de AuraDB con los datos cargados.
 ### Instrucciones:
 Su programa debe realizar el cálculo de una expresión infix, para lograrlo de primero debe convertir la expresión a postfix y
 luego evaluarla tal como se realizó en la hoja de trabajo no. 2. Debe leer esa expresión de un archivo de texto llamado
