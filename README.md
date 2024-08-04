@@ -17,5 +17,6 @@ En este curso principalmente se utilizó Java, algunas veces utilizando Python p
 
 Algunas de las entregas por resaltar son:
 
-  - HDT 9
-  - Proyecto 2
+  - HDT 9 - Grafos
+  - Proyecto 1 - Intérprete de LISP en Java
+  - Proyecto 2 - Base de Datos Basada en Grafos + Algoritmos de Recomendación
