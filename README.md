@@ -1,4 +1,4 @@
-# Hoja de Trabajo 1. Repaso Java / Interfaces
+# Hoja de Trabajo 2. Infix a Postfix / Pilas
 ## Autor: Jose Merida | 1 de Febrero 2024
 ### Instrucciones:
 Su programa debe leer de un archivo de texto, una expresión en formato Postfix y producir el resultado de la misma. El archivo
