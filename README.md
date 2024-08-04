@@ -1,6 +1,6 @@
 # Hoja de Trabajo 7: BST
 
-### Autor: José Antonio Mérida Castejón - Carné 201105
+### Autor: José Antonio Mérida Castejón | 7 de Abril 2024
 
 Este programa implementa un diccionario Inglés - Español basado en asociaciones de palabras en Inglés y su traducción al Español. Estas asociaciones están guardadas en el archivo diccionario.txt, incluye las siguientes asociaciones y se puede modificar el archivo para agregar más utilizando el mismo formato.
 
