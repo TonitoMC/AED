@@ -1,5 +1,7 @@
 # Hoja de Trabajo 5. Java Collection Framework / Maps
 ## Autor: Jose Merida | 4 de Abril 2024
+### Instalación
+Este proyecto utiliza [Maven](https://maven.apache.org/) y fue escrito en [Java](https://www.java.com/en/), por lo cual es necesario instalar estas dependencias para poder correr el programa. Para proteger los datos de los usuarios y el acceso a la base de datos, la información de conexión se coordina por medio de variables de entorno, por lo cuál es necesario configurarlas para conectarse a la base de datos de AuraDB con los datos cargados.
 ### Instrucciones:
 Utilice el de diseño Factory para seleccionar la implementación de MAP que usará su programa, en tiempo de corrida. El
 usuario debe seleccionar entre: 1)HashMap, 2)TreeMap, 3)LinkedHashMap.
