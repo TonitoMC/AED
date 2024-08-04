@@ -1,5 +1,5 @@
 # Hoja de Trabajo 9: Grafos y Dijkstra
-### Autores: José Antonio Mérida Castejón y Adrián López
+### Autores: José Antonio Mérida Castejón y Adrián López | 12 de Mayo 2024
 Este programa implementa un sistema para agendar viajes, lee datos de un archivo llamado "rutas.txt" que contiene la estación de salida, el destino y el costo.
 
 El archivo "rutas.txt" sigue el siguiente formato:
