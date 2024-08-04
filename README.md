@@ -1,5 +1,5 @@
 # Hoja de Trabajo 4. Factory, Singleton y Postfix
-## Autor: Jose Merida | 1 de Febrero 2024
+## Autor: Jose Merida | 26 de Febrero 2024
 ### Instrucciones:
 Su programa debe realizar el cálculo de una expresión infix, para lograrlo de primero debe convertir la expresión a postfix y
 luego evaluarla tal como se realizó en la hoja de trabajo no. 2. Debe leer esa expresión de un archivo de texto llamado
