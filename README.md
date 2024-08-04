@@ -52,23 +52,25 @@ El programa utiliza una base de datos basada en grafos empleando Neo4j. Tiene co
 ### Game
 Los juegos se relacionan por medio de "HAS_TAG" hacia los diferentes Tags
 
-![image](https://github.com/TonitoMC/Proyecto2_AED/assets/138615863/f98f96b7-9370-4287-a0c5-a31c38f80386)
+![image](https://github.com/user-attachments/assets/4b69f593-4b6f-43df-95a4-675fc0b2fc5a)
 
 Y por medio de "HAS_PRICE" hacia el nodo "Free"
 
-![image](https://github.com/TonitoMC/Proyecto2_AED/assets/138615863/60a3820d-a999-4889-9a4b-f102a51ae2ee)
+![image](https://github.com/user-attachments/assets/ee613264-e54d-4ac2-ad71-24ba290dbf42)
+
 ### User
 Las contraseñas de los usuarios se encuentran encriptadas, únicamente realizando una verificación por medio de BCrypt
 
-![image](https://github.com/TonitoMC/Proyecto2_AED/assets/138615863/3ca2eef4-95b4-4da4-9f38-21872a2dbc43)
+![image](https://github.com/user-attachments/assets/bcb37e97-df74-435f-ba51-a5fada1d0664)
 
 Se relaciona con los juegos por medio de la relación "LIKES"
 
-![image](https://github.com/TonitoMC/Proyecto2_AED/assets/138615863/92e29987-0f12-47ec-8be6-fbb86659191b)
+![image](https://github.com/user-attachments/assets/62bf5cf1-7bbb-4a42-a884-0fc611f0fa65)
 
 Y se relaciona con los Tags por medio de "LIKES_TAG", una relación ponderada
 
-![image](https://github.com/TonitoMC/Proyecto2_AED/assets/138615863/9cb6341f-3738-4eee-8c2f-49099dd5b911)
+![image](https://github.com/user-attachments/assets/45aa747b-b563-445b-8cbc-45dddc94e75f)
+
 ### Tag
 Los tags únicamente tienen relaciones dirigidos hacia ellos.
 ### Privacidad de los Usuarios
