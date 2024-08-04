@@ -1,5 +1,5 @@
 # Hoja de Trabajo 3. Sorts
-## Autor: Jose Merida | 1 de Febrero 2024
+## Autor: Jose Merida | 8 de Febrero 2024
 ### Instrucciones:
 Implementar los algoritmos de la siguiente lista en su programa.
 1. Gnome sort
