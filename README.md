@@ -1,5 +1,5 @@
 # Hoja de Trabajo 8: Priority Queue + Heaps
-### Autor: José Antonio Mérida Castejón
+### Autor: José Antonio Mérida Castejón | 9 de Abril 2024
 Este programa simula un sistema de atención de pacientes que llegan a la sección de Emergencias de un hospital. Al entrar un paciente se ingresa con:
 
 Nombre del paciente, descripción del síntoma, código de emergencia
