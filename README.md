@@ -11,7 +11,8 @@ El archivo "rutas.txt" sigue el siguiente formato:
 ```
 Al iniciar el programa se despliega un grafo que muestra las rutas del archivo, al igual que el costo entre cada salida y destino. 
 
-![image](https://github.com/TonitoMC/HDT9_AED/assets/138615863/6d3ece7b-7db9-45f5-b4b1-c12d2b207797)
+![image](https://github.com/user-attachments/assets/03445522-b70c-45a8-b798-03238d25d7a1)
+
 
 Luego se le pide al usuario ingresar el nombre de la estación de salida, se utiliza el algoritmo de Dijkstra para determinar las rutas más cortas para cada destino posible. En el caso de elegir como estación de salida "Pueblo Paleta" se obtiene el siguiente output:
 ```
@@ -20,7 +21,7 @@ Destino: Ciudad Safiro, Ruta: Pueblo Paleta -> Aldea Azalea -> Ciudad Safiro, Di
 ```
 Adicionalmente se genera el siguiente Grafo:
 
-![image](https://github.com/TonitoMC/HDT9_AED/assets/138615863/b73cce69-8ca4-4462-86c8-b3e3be4ed8d4)
+![image](https://github.com/user-attachments/assets/97cc0803-a4ba-461a-95dd-52ef297ed500)
 
 También incluye la funcionalidad de re-dibujar los grafos, en caso que el Seed del Spring Layout cree un overlap entre diferentes nodos o la imagen no esté lo suficientemente clara. Se evito utilizar posicionamiento individual de cada grafo ya que pueden tener un número variable de Nodos y conexiones entre ellos, los parámetros del Spring Layout fueron probados empíricamente y se buscó el resultado más consistente.
 ## Instalación
